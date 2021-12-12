@@ -25,16 +25,16 @@ When you get serious about your productivity!
 - Login to Metamask account and enable the extension
 - Connect metamask to the website
 - Enter the todo task 
-![EnteringTask]('/screenshots/enteringtask.png')
+![EnteringTask](/screenshots/enteringtask.png)
 - Confirm the Metamask transaction
-![EnteringTask]('/screenshots/confirmentermetamask.png')
+![EnteringTask](/screenshots/confirmentermetamask.png)
 - The New Todo will be added with the visualisers
-![EnteringTask]('/screenshots/newTodoAdded.png')
+![EnteringTask](/screenshots/newTodoAdded.png)
 - Toggle a Task by giving the Task Number
-![EnteringTask]('./screenshots/toggleTask.png')
+![EnteringTask](/screenshots/toggleTask.png)
 - Confirm the Toggling of Task Metamask
-![EnteringTask]('./screenshots/toggleConfirmMetamask.png')
+![EnteringTask](/screenshots/toggleConfirmMetamask.png)
 - Toggle Task Update at the Home Screen with visualisers
-![EnteringTask]('./screenshots/toggleHome.png')
+![EnteringTask](/screenshots/toggleHome.png)
 - This is how the App works
 
