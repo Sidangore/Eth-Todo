@@ -54,6 +54,7 @@ git clone https://github.com/Sidangore/Eth-Todo.git
 - Start the Client Server
 ```
 cd client/
+npm install
 npm start
 ```
 - Visit localhost:3000 to start using the Dapp on your machine
