@@ -11,7 +11,7 @@ When you get serious about your productivity!
     - web3
     - react-bootstrap
     - bootstrap 
-    ```bash
+    ```
     import 'bootstrap/dist/css/bootstrap.css'; 
     ````
         // Add the above import in index.js file
