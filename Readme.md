@@ -38,3 +38,24 @@ When you get serious about your productivity!
 ![EnteringTask](/screenshots/toggleHome.png)
 - This is how the App works
 
+# Using the Dapp
+- Clone the repository
+```
+git clone https://github.com/Sidangore/Eth-Todo.git
+```
+- Deploy the Contract on your Locally Hosted Ganache
+    1. Start Ganache
+    2. At Root level of folder
+    ``` 
+    truffle migrate --reset
+    ```
+    3. Copy the ABI and Address of Contract from ./build/contracts/Todo.json
+    4. Paste the Respectives at ./client/config.js        
+- Start the Client Server
+```
+cd client/
+npm start
+```
+- Visit localhost:3000 to start using the Dapp on your machine
+
+
